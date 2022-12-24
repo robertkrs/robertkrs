@@ -1,23 +1,23 @@
 <h3 align="center">
-  Welcome to my profile!🖖
+  Bem vindo ao meu perfil!🖖
 </h3>
 <p align="center">
-  <a href="https://github.com/robertkrs/robertkrs"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Robert+Reis;Front+End+Dev;Game+Dev;"></a>
+  <a href="https://github.com/robertkrs/robertkrs"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Oi+%2C+Bem+Vindo+a+minha+pagina+do+Github;Meu+nome+é+Robert+Reis;Front+End+Dev;Game+Dev;"></a>
 </p>
 
 ---
 <div align="center">
   
-# 💫About Me :
+# 💫Sobre mim :
   
-  🌱 I’m currently learning : Javascript
+  🌱 Atualmente estou aprendendo : Javascript
 
-  💼 I’m looking for a job
+  💼 Estou procurando emprego
 
-  💬 Ask me about for any help
+  💬 Pode me pedir qualquer tipo de ajuda
 
-  📫 How to reach me:  
-  Mail me at "robertreis323@gmail.com"
+  📫 Como me encontrar:  
+  Email: "robertreis323@gmail.com"
   
 
 
