@@ -2,7 +2,7 @@
   Bem vindo ao meu perfil!🖖
 </h3>
 <p align="center">
-  <a href="https://github.com/robertkrs/robertkrs"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Oi+%2C+Bem+Vindo+a+minha+pagina+do+Github;Meu+nome+é+Robert+Reis;Front+End+Dev;Game+Dev;"></a>
+  <a href="https://github.com/robertkrs/robertkrs"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Bem+Vindo+ao+meu+perfil+do+Github;Meu+nome+é+Robert+Reis;Front+End+Dev;Game+Dev;"></a>
 </p>
 
 ---
