@@ -1,5 +1,5 @@
 <h3 align="center">
-  Bem vindo ao meu perfil!🖖
+  Bem vindo ao meu perfil!
 </h3>
 <p align="center">
   <a href="https://github.com/robertkrs/robertkrs"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Bem+Vindo+ao+meu+perfil+do+Github;Meu+nome+é+Robert+Reis;Front+End+Dev;Game+Dev;"></a>
@@ -34,10 +34,6 @@
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=robertkrs&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 
 ![](https://komarev.com/ghpvc/?username=robertkrs&label=Visitors+Count&color=brightgreen)
