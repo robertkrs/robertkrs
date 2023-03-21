@@ -10,7 +10,7 @@
   
 # 💫Sobre mim :
   
-  🌱 Atualmente estou aprendendo : PHP
+  🌱 Atualmente estou aprendendo : TypeScript
 
   💼 Desenvolvedor na LEVEX
 
